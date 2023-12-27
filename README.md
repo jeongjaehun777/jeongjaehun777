@@ -1,4 +1,4 @@
-## 팀 개발을 위한 Git Github 기작하기 계정판
+## 팀 개발을 위한 Git Github 시작하기 계정판
 
 ### Hi there 👋
 
